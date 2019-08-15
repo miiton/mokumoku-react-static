@@ -57,5 +57,11 @@
     "serve": "10.1.2",
     "typescript": "^3.5.3",
     "yarn": "^1.17.3"
-  }
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 0.5%",
+    "Firefox ESR",
+    "not dead"
+  ]
 }
