@@ -19,5 +19,6 @@ export default {
         location: path.resolve('./src/pages'),
       },
     ],
+    ['react-static-plugin-mdx'],
   ],
 }

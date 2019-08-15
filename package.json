@@ -23,6 +23,7 @@
     "react-router": "^5.0.1",
     "react-static": "^7.0.0",
     "react-static-plugin-emotion": "^7.0.10",
+    "react-static-plugin-mdx": "^7.1.0",
     "react-static-plugin-react-router": "^7.0.10",
     "react-static-plugin-sitemap": "^7.0.10",
     "react-static-plugin-source-filesystem": "^7.0.0",
